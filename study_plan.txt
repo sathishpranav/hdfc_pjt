@@ -1,0 +1,2 @@
+AWS Cloud Practitioner Goal: 2 Months
+Focus Areas: IAM, S3, and EC2
