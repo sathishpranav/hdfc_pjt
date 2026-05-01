@@ -1,0 +1,2 @@
+Table: Customers, Column: Balance
+DB Type: Amazon RDS (Relational)
